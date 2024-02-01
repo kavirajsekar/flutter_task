@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "413394418369",
+    "project_id": "mobilesignin-c64bd",
+    "storage_bucket": "mobilesignin-c64bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413394418369:android:5b89cedf3c64cff4777240",
+        "android_client_info": {
+          "package_name": "com.example.mobileapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzXHGSxJ5k72aSqqNpT6lMICgdshPHImY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
